@@ -1,0 +1,7 @@
+tabulate
+numpy
+ta
+matplotlib
+pandas
+schedule
+time
